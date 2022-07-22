@@ -1,0 +1,4 @@
+my:
+  greeting: welcome to My Portal
+  list:
+    values:apple,banana,mango 
